@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Luann Domingos Mariano
+# 👋 Olá! Eu sou o Luann Mariano
 
-### 💻 Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas
+### 💻 Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas | FIAP
 
 Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas linguagens, frameworks e boas práticas de desenvolvimento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e participo de diversos projetos acadêmicos e pessoais.
 
@@ -48,7 +48,4 @@ Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas lingu
 - Participo ativamente de projetos que integram sistemas internos com automações e APIs.
 - Sempre aberto a novos desafios e colaborações.
 
----
-
-**"A tecnologia move o mundo." – Steve Jobs**
 
