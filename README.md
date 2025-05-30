@@ -21,8 +21,6 @@ Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas lingu
 
 - **ChatbotChamado:** Bot integrado ao WhatsApp com Node.js para abertura automática de chamados, integrado com banco de dados Oracle.
 - **Intranet de TI:** Sistema interno de monitoramento e histórico de chamados para postos de combustível.
-- **Controle Financeiro:** App de gerenciamento financeiro pessoal.
-- **Sistema de Controle de Pátio:** Sistema relacional com Oracle, PL/SQL, e modelagem em notação Barker.
 
 ---
 
