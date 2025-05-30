@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luann Domingos Mariano
 
-<!--
-**LuannZeiro/LuannZeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas linguagens, frameworks e boas práticas de desenvolvimento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e participo de diversos projetos acadêmicos e pessoais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas que utilizo:
+
+- **Linguagens:** Java, JavaScript, C#, SQL, PL/SQL
+- **Frameworks:** Spring Boot, Node.js, .NET
+- **Banco de Dados:** Oracle, MySQL
+- **Versionamento:** Git & GitHub
+- **Ferramentas:** VSCode, IntelliJ, Postman, Docker
+- **Outros:** API REST, JWT, HTML, CSS, React, React Native
+
+---
+
+## 🛠️ Projetos em destaque:
+
+- **ChatbotChamado:** Bot integrado ao WhatsApp com Node.js para abertura automática de chamados, integrado com banco de dados Oracle.
+- **Intranet de TI:** Sistema interno de monitoramento e histórico de chamados para postos de combustível.
+- **Controle Financeiro:** App de gerenciamento financeiro pessoal.
+- **Sistema de Controle de Pátio:** Sistema relacional com Oracle, PL/SQL, e modelagem em notação Barker.
+
+---
+
+## 🎯 Em aprendizado:
+
+- Arquiteturas Disruptivas (IoT, IoB, IA Generativa)
+- Microsserviços e boas práticas de DevOps
+- Avançado em .NET e React Native
+
+---
+
+## 📫 Como me encontrar:
+
+- ✉️ Email: luann.mariano@postos7.com.br
+- 💼 LinkedIn: [linkedin.com/in/SEU-LINK-AQUI](#) 
+- 🖥️ GitHub: [github.com/SEU-USUÁRIO-AQUI](#)
+
+---
+
+## ⚡ Curiosidades:
+
+- Gosto de transformar problemas em soluções eficientes através da tecnologia.
+- Participo ativamente de projetos que integram sistemas internos com automações e APIs.
+- Sempre aberto a novos desafios e colaborações.
+
+---
+
+**"A tecnologia move o mundo." – Steve Jobs**
+
