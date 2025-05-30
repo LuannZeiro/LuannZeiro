@@ -37,8 +37,8 @@ Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas lingu
 ## 📫 Como me encontrar:
 
 - ✉️ Email: luann.mariano2003@gmail.com
-- 💼 LinkedIn: [[https://www.linkedin.com/in/luann-mariano/](https://www.linkedin.com/in/luann-mariano/)](#) 
-- 🖥️ GitHub: [github.com/SEU-USUÁRIO-AQUI](#)
+- 💼 LinkedIn: https://www.linkedin.com/in/luann-mariano/
+- 🖥️ GitHub: https://github.com/LuannZeiro
 
 ---
 
