@@ -28,8 +28,6 @@ Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas lingu
 
 - Arquiteturas Disruptivas (IoT, IoB, IA Generativa)
 - Microsserviços e boas práticas de DevOps
-- Avançado em .NET e React Native
-
 ---
 
 ## 📫 Como me encontrar:
