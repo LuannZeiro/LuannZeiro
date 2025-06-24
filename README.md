@@ -19,8 +19,8 @@ Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas lingu
 
 ## 🛠️ Projetos em destaque:
 
-- **ChatbotChamado:** Bot integrado ao WhatsApp com Node.js para abertura automática de chamados, integrado com banco de dados Oracle.
-- **Intranet de TI:** Sistema interno de monitoramento e histórico de chamados para postos de combustível.
+- **ChatbotChamado:** Bot integrado ao WhatsApp com Node.js para abertura automática de chamados, integrado com API.
+- **Intranet de TI:** Sistema interno de monitoramento para o departamento de TI.
 
 ---
 
