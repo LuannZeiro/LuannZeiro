@@ -8,12 +8,11 @@ Sou apaixonado por tecnologia, sempre buscando aprender e evoluir em novas lingu
 
 ## 🚀 Tecnologias e Ferramentas que utilizo:
 
-- **Linguagens:** Java, JavaScript, C#, SQL, PL/SQL
+- **Linguagens:** Java, Python, JavaScript, React, HTML, CSS
 - **Frameworks:** Spring Boot, Node.js, .NET
 - **Banco de Dados:** Oracle, MySQL
 - **Versionamento:** Git & GitHub
 - **Ferramentas:** VSCode, IntelliJ, Postman, Docker
-- **Outros:** API REST, JWT, HTML, CSS, React, React Native
 
 ---
 
